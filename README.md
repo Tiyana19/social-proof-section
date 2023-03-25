@@ -49,7 +49,7 @@ Mobile Size
 This project was quite a challenge for me.
 I used both Grid and Flex property in this and because the mobile screen and desktop screen both had different type of layout so it was bit hard to set everything on its place.
 
-And also the Ladder effect on cards was something that tried first time.
+And also the Ladder effect on cards was something that I tried first time.
 
 ```
 .rating {
