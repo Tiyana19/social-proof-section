@@ -92,7 +92,7 @@ h1 {
     width: 45px;
     border-radius: 100px;
 }
-.name h4 {
+.name h3 {
     color: hsl(333, 80%, 67%);
     margin-top: 0.3rem;
     font-size: 1rem;
